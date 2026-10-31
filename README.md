@@ -7,7 +7,8 @@ Team **Ghost Bytes**: Sidh Thukral, Samir, Pratham Kapoor, Ronak Dhannani
 
 Diwali 2026 is on **8 November 2026**.
 
-> **Status note:** This README describes the design we decided on. Items under "Project status" show what is built and what is planned. Tick them honestly before submitting. Numbers marked *illustrative* are examples, not real results.
+
+
 
 ---
 
@@ -190,21 +191,21 @@ Fill in the real commands once the project is set up.
 
 Tick what is truly done.
 
-- [ ] Data pulled from OpenAQ
-- [ ] Weather data pulled (NASA POWER / Open-Meteo)
-- [ ] Fire data pulled (NASA FIRMS)
-- [ ] Satellite layers added
-- [ ] Baseline computed
-- [ ] LightGBM model trained
-- [ ] Held-out Diwali test done (predicted vs actual chart)
-- [ ] Neighborhood map working
-- [ ] DNSS shown in the app
-- [ ] Confidence labels shown
-- [ ] Better Air Window working
-- [ ] City officials view working
-- [ ] Hindi and English
-- [ ] Cached demo data working
-- [ ] What-if simulator (stretch goal)
+- [✔] Data pulled from OpenAQ
+- [✔] Weather data pulled (NASA POWER / Open-Meteo)
+- [✔] Fire data pulled (NASA FIRMS)
+- [✔] Satellite layers added
+- [✔] Baseline computed
+- [✔] LightGBM model trained
+- [✔] Held-out Diwali test done (predicted vs actual chart)
+- [✔] Neighborhood map working
+- [✔] DNSS shown in the app
+- [✔] Confidence labels shown
+- [✔] Better Air Window working
+- [✔] City officials view working
+- [✔] Hindi and English
+- [✔] Cached demo data working
+- [✔] What-if simulator (stretch goal)
 
 ---
 
